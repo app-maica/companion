@@ -1,0 +1,24 @@
+{
+  "name": "uhwi_companion",
+  "description": "Internal communication app for the University of the West Indies Hospital",
+  "main": "index.js",
+  "authors": [
+    "Wayne Little"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+      "dependencies": {
+    "Framework7": "framework7#^1.4.2",
+    "backendless": "^3.1.16",
+    "material-design-icons": "^2.2.3"
+  }
+}
